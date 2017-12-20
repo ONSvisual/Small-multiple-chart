@@ -1,0 +1,203 @@
+{
+
+	"Monthly": {
+
+		"0": {
+
+			"Overview" : 	
+			[
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index0","value":98,"date":"01/07/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index0","value":96,"date":"01/08/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index0","value":90,"date":"01/09/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index1","value":99,"date":"01/07/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index1","value":98,"date":"01/08/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index1","value":102,"date":"01/09/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index0","value":100,"date":"01/06/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index0","value":120,"date":"01/07/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index0","value":118,"date":"01/08/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index0","value":115,"date":"01/09/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index1","value":85,"date":"01/07/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index1","value":86,"date":"01/08/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index1","value":82,"date":"01/09/14"}
+
+            ]
+        }, 
+
+		"1": {
+
+			"Food" : 		
+			[
+                {"category":"010106Apples Dessert Per Kg", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"010106Apples Dessert Per Kg", "index":"Index0","value":101,"date":"01/07/14"},
+                {"category":"010106Apples Dessert Per Kg", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"010106Apples Dessert Per Kg", "index":"Index1","value":96,"date":"01/07/14"},
+                {"category":"010106Bananas Per Kg", "index":"Index0","value":100,"date":"01/06/14"},
+                {"category":"010106Bananas Per Kg", "index":"Index0","value":108,"date":"01/07/14"},
+                {"category":"010106Bananas Per Kg", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"010106Bananas Per Kg", "index":"Index1","value":92,"date":"01/07/14"},
+                {"category":"010101Breakfast Cereal 1", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"010101Breakfast Cereal 1", "index":"Index0","value":101,"date":"01/07/14"},
+                {"category":"010101Breakfast Cereal 1", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"010101Breakfast Cereal 1", "index":"Index1","value":96,"date":"01/07/14"},
+                {"category":"010101Breakfast Cereal 2", "index":"Index0","value":100,"date":"01/06/14"},
+                {"category":"010101Breakfast Cereal 2", "index":"Index0","value":108,"date":"01/07/14"},
+                {"category":"010101Breakfast Cereal 2", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"010101Breakfast Cereal 2", "index":"Index1","value":92,"date":"01/07/14"}
+            ],
+
+			"Alcoholic" : 
+			[
+                {"category":"020102Apple Cider 500-750Ml 4.5-5.5%", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"020102Apple Cider 500-750Ml 4.5-5.5%", "index":"Index0","value":101,"date":"01/07/14"},
+                {"category":"020102Apple Cider 500-750Ml 4.5-5.5%", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"020102Apple Cider 500-750Ml 4.5-5.5%", "index":"Index1","value":96,"date":"01/07/14"},
+                {"category":"020103Bitter 4 Cans 440-500Ml", "index":"Index0","value":100,"date":"01/06/14"},
+                {"category":"020103Bitter 4 Cans 440-500Ml", "index":"Index0","value":108,"date":"01/07/14"},
+                {"category":"020103Bitter 4 Cans 440-500Ml", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"020103Bitter 4 Cans 440-500Ml", "index":"Index1","value":92,"date":"01/07/14"},
+                {"category":"020101Brandy 68-70 Cl Bottle", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"020101Brandy 68-70 Cl Bottle", "index":"Index0","value":101,"date":"01/07/14"},
+                {"category":"020101Brandy 68-70 Cl Bottle", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"020101Brandy 68-70 Cl Bottle", "index":"Index1","value":96,"date":"01/07/14"},
+                {"category":"020103Lager 4 Bottles Premium", "index":"Index0","value":100,"date":"01/06/14"},
+                {"category":"020103Lager 4 Bottles Premium", "index":"Index0","value":108,"date":"01/07/14"},
+                {"category":"020103Lager 4 Bottles Premium", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"020103Lager 4 Bottles Premium", "index":"Index1","value":92,"date":"01/07/14"}
+            ]
+
+		}
+
+	},
+
+	"Weekly": {
+
+		"0": {
+
+			"Overview" : 
+			[
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index0","value":101,"date":"09/06/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index0", "value":100,"date":"16/06/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index0","value":101,"date":"23/06/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index0", "value":100,"date":"30/06/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index1","value":96,"date":"09/06/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index1","value":100,"date":"16/06/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index1","value":96,"date":"23/06/14"},
+                {"category":"010000Food & Non-Alcoholic Beverages", "index":"Index1","value":100,"date":"30/06/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index0","value":101,"date":"09/06/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index0", "value":100,"date":"16/06/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index0","value":101,"date":"23/06/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index0", "value":100,"date":"30/06/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index1","value":96,"date":"09/06/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index1","value":100,"date":"16/06/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index1","value":96,"date":"23/06/14"},
+                {"category":"020000Alcoholic Beverages", "index":"Index1","value":100,"date":"30/06/14"}
+            ]	
+								
+							
+		}, 
+
+		"1": {
+
+			"Food" : 
+			[
+				{"category":"010106Apples Dessert Per Kg", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"010106Apples Dessert Per Kg", "index":"Index0","value":101,"date":"09/06/14"},
+                {"category":"010106Apples Dessert Per Kg", "index":"Index0", "value":100,"date":"16/06/14"},
+                {"category":"010106Apples Dessert Per Kg", "index":"Index0","value":101,"date":"23/06/14"},
+                {"category":"010106Apples Dessert Per Kg", "index":"Index0", "value":100,"date":"30/06/14"},
+                {"category":"010106Apples Dessert Per Kg", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"010106Apples Dessert Per Kg", "index":"Index1","value":96,"date":"09/06/14"},
+                {"category":"010106Apples Dessert Per Kg", "index":"Index1","value":100,"date":"16/06/14"},
+                {"category":"010106Apples Dessert Per Kg", "index":"Index1","value":96,"date":"23/06/14"},
+                {"category":"010106Apples Dessert Per Kg", "index":"Index1","value":100,"date":"30/06/14"},
+                {"category":"010106Bananas Per Kg", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"010106Bananas Per Kg", "index":"Index0","value":101,"date":"09/06/14"},
+                {"category":"010106Bananas Per Kg", "index":"Index0", "value":100,"date":"16/06/14"},
+                {"category":"010106Bananas Per Kg", "index":"Index0","value":101,"date":"23/06/14"},
+                {"category":"010106Bananas Per Kg", "index":"Index0", "value":100,"date":"30/06/14"},
+                {"category":"010106Bananas Per Kg", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"010106Bananas Per Kg", "index":"Index1","value":96,"date":"09/06/14"},
+                {"category":"010106Bananas Per Kg", "index":"Index1","value":100,"date":"16/06/14"},
+                {"category":"010106Bananas Per Kg", "index":"Index1","value":96,"date":"23/06/14"},
+                {"category":"010106Bananas Per Kg", "index":"Index1","value":100,"date":"30/06/14"},
+                {"category":"010101Breakfast Cereal 1", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"010101Breakfast Cereal 1", "index":"Index0","value":101,"date":"09/06/14"},
+                {"category":"010101Breakfast Cereal 1", "index":"Index0", "value":100,"date":"16/06/14"},
+                {"category":"010101Breakfast Cereal 1", "index":"Index0","value":101,"date":"23/06/14"},
+                {"category":"010101Breakfast Cereal 1", "index":"Index0", "value":100,"date":"30/06/14"},
+                {"category":"010101Breakfast Cereal 1", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"010101Breakfast Cereal 1", "index":"Index1","value":96,"date":"09/06/14"},
+                {"category":"010101Breakfast Cereal 1", "index":"Index1","value":100,"date":"16/06/14"},
+                {"category":"010101Breakfast Cereal 1", "index":"Index1","value":96,"date":"23/06/14"},
+                {"category":"010101Breakfast Cereal 1", "index":"Index1","value":100,"date":"30/06/14"},
+                {"category":"010101Breakfast Cereal 2", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"010101Breakfast Cereal 2", "index":"Index0","value":101,"date":"09/06/14"},
+                {"category":"010101Breakfast Cereal 2", "index":"Index0", "value":100,"date":"16/06/14"},
+                {"category":"010101Breakfast Cereal 2", "index":"Index0","value":101,"date":"23/06/14"},
+                {"category":"010101Breakfast Cereal 2", "index":"Index0", "value":100,"date":"30/06/14"},
+                {"category":"010101Breakfast Cereal 2", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"010101Breakfast Cereal 2", "index":"Index1","value":96,"date":"09/06/14"},
+                {"category":"010101Breakfast Cereal 2", "index":"Index1","value":100,"date":"16/06/14"},
+                {"category":"010101Breakfast Cereal 2", "index":"Index1","value":96,"date":"23/06/14"},
+                {"category":"010101Breakfast Cereal 2", "index":"Index1","value":100,"date":"30/06/14"}
+            ],
+
+			"Alcoholic" : 	
+			[
+				{"category":"020102Apple Cider 500-750Ml 4.5-5.5%", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"020102Apple Cider 500-750Ml 4.5-5.5%", "index":"Index0","value":101,"date":"09/06/14"},
+                {"category":"020102Apple Cider 500-750Ml 4.5-5.5%", "index":"Index0", "value":102,"date":"16/06/14"},
+                {"category":"020102Apple Cider 500-750Ml 4.5-5.5%", "index":"Index0","value":104,"date":"23/06/14"},
+                {"category":"020102Apple Cider 500-750Ml 4.5-5.5%", "index":"Index0", "value":103,"date":"30/06/14"},
+                {"category":"020102Apple Cider 500-750Ml 4.5-5.5%", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"020102Apple Cider 500-750Ml 4.5-5.5%", "index":"Index1","value":96,"date":"09/06/14"},
+                {"category":"020102Apple Cider 500-750Ml 4.5-5.5%", "index":"Index1","value":101,"date":"16/06/14"},
+                {"category":"020102Apple Cider 500-750Ml 4.5-5.5%", "index":"Index1","value":102,"date":"23/06/14"},
+                {"category":"020102Apple Cider 500-750Ml 4.5-5.5%", "index":"Index1","value":100,"date":"30/06/14"},
+                {"category":"020103Bitter 4 Cans 440-500Ml", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"020103Bitter 4 Cans 440-500Ml", "index":"Index0","value":101,"date":"09/06/14"},
+                {"category":"020103Bitter 4 Cans 440-500Ml", "index":"Index0", "value":100,"date":"16/06/14"},
+                {"category":"020103Bitter 4 Cans 440-500Ml", "index":"Index0","value":101,"date":"23/06/14"},
+                {"category":"020103Bitter 4 Cans 440-500Ml", "index":"Index0", "value":100,"date":"30/06/14"},
+                {"category":"020103Bitter 4 Cans 440-500Ml", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"020103Bitter 4 Cans 440-500Ml", "index":"Index1","value":96,"date":"09/06/14"},
+                {"category":"020103Bitter 4 Cans 440-500Ml", "index":"Index1","value":100,"date":"16/06/14"},
+                {"category":"020103Bitter 4 Cans 440-500Ml", "index":"Index1","value":96,"date":"23/06/14"},
+                {"category":"020103Bitter 4 Cans 440-500Ml", "index":"Index1","value":100,"date":"30/06/14"},
+                {"category":"020101Brandy 68-70 Cl Bottle", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"020101Brandy 68-70 Cl Bottle", "index":"Index0","value":101,"date":"09/06/14"},
+                {"category":"020101Brandy 68-70 Cl Bottle", "index":"Index0", "value":100,"date":"16/06/14"},
+                {"category":"020101Brandy 68-70 Cl Bottle", "index":"Index0","value":101,"date":"23/06/14"},
+                {"category":"020101Brandy 68-70 Cl Bottle", "index":"Index0", "value":100,"date":"30/06/14"},
+                {"category":"020101Brandy 68-70 Cl Bottle", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"020101Brandy 68-70 Cl Bottle", "index":"Index1","value":96,"date":"09/06/14"},
+                {"category":"020101Brandy 68-70 Cl Bottle", "index":"Index1","value":100,"date":"16/06/14"},
+                {"category":"020101Brandy 68-70 Cl Bottle", "index":"Index1","value":96,"date":"23/06/14"},
+                {"category":"020101Brandy 68-70 Cl Bottle", "index":"Index1","value":100,"date":"30/06/14"},
+                {"category":"020103Lager 4 Bottles Premium", "index":"Index0", "value":100,"date":"01/06/14"},
+                {"category":"020103Lager 4 Bottles Premium", "index":"Index0","value":101,"date":"09/06/14"},
+                {"category":"020103Lager 4 Bottles Premium", "index":"Index0", "value":100,"date":"16/06/14"},
+                {"category":"020103Lager 4 Bottles Premium", "index":"Index0","value":101,"date":"23/06/14"},
+                {"category":"020103Lager 4 Bottles Premium", "index":"Index0", "value":100,"date":"30/06/14"},
+                {"category":"020103Lager 4 Bottles Premium", "index":"Index1","value":100,"date":"01/06/14"},
+                {"category":"020103Lager 4 Bottles Premium", "index":"Index1","value":96,"date":"09/06/14"},
+                {"category":"020103Lager 4 Bottles Premium", "index":"Index1","value":100,"date":"16/06/14"},
+                {"category":"020103Lager 4 Bottles Premium", "index":"Index1","value":96,"date":"23/06/14"},
+                {"category":"020103Lager 4 Bottles Premium", "index":"Index1","value":100,"date":"30/06/14"}
+
+
+
+			]
+
+		}
+
+	}
+
+}

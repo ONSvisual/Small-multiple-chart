@@ -1,0 +1,157 @@
+/* controls titles of charts */
+
+.text {
+    font-family: "open_sansbold", sans-serif, Helvetica, Arial;
+    font-size: 12px;
+    font-color: #666;
+    /*font-weight:400;*/
+}
+
+.title {
+    font-size: 20px;
+    margin-top: 10px;
+}
+/* border0 : GEKSJ Index label blue color */
+
+.border0 {
+    border-top: 2px solid #274796;
+}
+/* border1 : Unit Price label orange color */
+
+.border1 {
+    border-top: 2px solid #F90;
+}
+
+.line-0 {
+    stroke: #274796;
+    opacity: .8;
+    stroke-width: 2px;
+}
+
+.line-1 {
+    stroke: #F90;
+    opacity: .8;
+    stroke-width: 2px;
+}
+
+.line-2 {
+    stroke: #2ca02c;
+    opacity: .8;
+    stroke-width: 2px;
+}
+
+.line-3 {
+    stroke: #d62728;
+    opacity: .8;
+    stroke-width: 2px;
+}
+
+.opaque {
+    opacity: .2;
+    stroke-width: 1.5px;
+}
+/* squares : rectangle use to hihlight svg to indicate to go down a level */
+/* border stoke-width goes from 0 to 4 when hovered; default is 0  */
+
+.squares {
+    fill: white;
+    fill-opacity: 0;
+    stroke-width: 0px;
+    stroke: #999E53;
+    border-radius: 2em;
+    opacity: 0.6;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    cursor: pointer;
+}
+
+.chart {
+    float: left;
+}
+
+.radio-toggle {
+    list-style-type: none;
+    margin:  0;
+    padding: 0;
+}
+
+.radio-toggle li {
+    float: left;
+    margin: 0 -1px 3px 0;
+    width: 100px;
+    height: 32px;
+    position: relative;
+}
+
+.radio-toggle label,
+.radio-toggle input {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.radio-toggle input[type="radio"] {
+    opacity: 0.011;
+    z-index: 100;
+}
+
+.radio-toggle input[type="radio"]:checked+label {
+    color: #ffffff;
+    background-color: #008cba;
+    border-color: #0079a1;
+}
+
+.radio-toggle label {
+    z-index: 90;
+    /*display: inline-block;*/
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    color: #008cba;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid rgb(0, 140, 186);
+    white-space: nowrap;
+    padding: 4px 12px;
+    font-size: 15px;
+    line-height: 1.42857143;
+    border-radius: 0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.radio-toggle label:hover {
+    background: #fafafa;
+}
+
+.styled-checkbox label {
+    padding: 6px;
+    border: 1px solid #e8e8e8;
+    margin: 3px;
+    cursor: pointer;
+}
+
+.styled-checkbox label>input {
+    margin-left: 6px;
+}
+
+.styled-checkbox label:hover {
+    background: #fafafa;
+}
+.styled-checkbox label:first-child {
+  margin-left: 0px;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+ul.breadcrumb {
+    border-radius: 0;
+}
